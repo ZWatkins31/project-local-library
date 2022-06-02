@@ -1,4 +1,4 @@
-# Project Loca Library Instructions
+# Project: Local Library Instructions
 
 ## Function instructions
 
